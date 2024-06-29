@@ -6,7 +6,7 @@ I am currently pursuing a degree in software engineering at ETSII.
 
 * 🌍  I'm based in Sevilla , Casablanca
 * ✉️  You can contact me at [ayahdahmaniabdenabaoui@gmail.com](mailto:ayahdahmaniabdenabaoui@gmail.com)
-* 🧠  I'm learning Data sience
+* 🧠  Data Scientist
 
 ### Skills
 

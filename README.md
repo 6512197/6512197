@@ -1,13 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aya (Ayah) Dahmani
 ==========================================================================================================================================
 
-I am currently pursuing a degree in software engineering at ETSII.
+I am currently pursuing a degree in Computer engineering - software engineering at ETSII.
 ---------------------------------
 
 * 🌍  I'm based in Sevilla , Casablanca
 * ✉️  You can contact me at [ayahdahmaniabdenabaoui@gmail.com](mailto:ayahdahmaniabdenabaoui@gmail.com)
-* 🧠  Data Scientist
-
+* 🧠  Data Scientist - Business Data Analyst
 ### Skills
 
 

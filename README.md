@@ -1,6 +1,7 @@
 # 💫 About Me:
-I am currently pursuing a degree in Computer engineering - software engineering at ETSII.<br>🌍  I'm based in Sevilla , Casablanca<br>✉️  You can contact me at [ayahdahmaniabdenabaoui@gmail.com](mailto:ayahdahmaniabdenabaoui@gmail.com)<br>🧠  Data Scientist - Business Data Analyst - FullStack Developer - Aspiring Product manager 
+I am currently pursuing a degree in Computer engineering - software engineering at ETSII.<br>🌍  I'm based in Sevilla , Casablanca<br>✉️  You can contact me at [ayahdahmaniabdenabaoui@gmail.com](mailto:ayahdahmaniabdenabaoui@gmail.com)<br>🧠Data Scientist - Business Data Analyst - FullStack Developer - Aspiring Product manager 
 
+![CodingIsToughCodingGIF](https://github.com/user-attachments/assets/ab05ddda-dfcd-4927-b313-89b6a233c4f5)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aya-dahmani-abdenabaoui) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17270279/ayah-dahmani) 

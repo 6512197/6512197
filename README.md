@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing a degree in Computer engineering - software engineering at ETSII.<br>🌍  I'm based in Sevilla , Casablanca<br>✉️  You can contact me at [ayahdahmaniabdenabaoui@gmail.com](mailto:ayahdahmaniabdenabaoui@gmail.com)<br>🧠  Data Scientist - Business Data Analyst - FullStack Developer
+I am currently pursuing a degree in Computer engineering - software engineering at ETSII.<br>🌍  I'm based in Sevilla , Casablanca<br>✉️  You can contact me at [ayahdahmaniabdenabaoui@gmail.com](mailto:ayahdahmaniabdenabaoui@gmail.com)<br>🧠  Data Scientist - Business Data Analyst - FullStack Developer - Aspiring Product manager ...
 
 
 ## 🌐 Socials:

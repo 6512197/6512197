@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently pursuing a degree in Computer engineering - software engineering at ETSII.<br>🌍  I'm based in Sevilla , Casablanca<br>✉️  You can contact me at [ayahdahmaniabdenabaoui@gmail.com](mailto:ayahdahmaniabdenabaoui@gmail.com)<br>🧠Data Scientist - Business Data Analyst - FullStack Developer - Aspiring Product manager 
+I am currently pursuing a degree in Computer engineering - software engineering at ETSII.<br>🌍  I'm based in Sevilla , Casablanca<br>✉️  You can contact me at [ayahdahmaniabdenabaoui@gmail.com](mailto:ayahdahmaniabdenabaoui@gmail.com)<br>🧠Data Scientist - Business Data Analyst - FullStack Developer 
+<br>🚀Aspiring Product Manager with a rock-solid foundation in Computer Engineering & Software Development.
 
 ![WhyCodingCodingGIF (2)](https://github.com/user-attachments/assets/8608c57b-a6fd-409a-be66-f26a691625b6)
 
